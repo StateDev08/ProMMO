@@ -1,9 +1,9 @@
 # ProMMO - Advanced MMORPG Plugin für Minecraft
 
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/prommo/ProMMO)
-[![Minecraft](https://img.shields.io/badge/minecraft-1.21.4-green.svg)](https://www.minecraft.net/)
+[![Minecraft](https://img.shields.io/badge/minecraft-1.21.11-green.svg)](https://www.minecraft.net/)
 [![Java](https://img.shields.io/badge/Java-21-orange.svg)](https://openjdk.org/projects/jdk/21/)
-[![Paper](https://img.shields.io/badge/Paper-1.21.4-blue.svg)](https://papermc.io/)
+[![Paper](https://img.shields.io/badge/Paper-1.21.11-blue.svg)](https://papermc.io/)
 [![Folia](https://img.shields.io/badge/Folia-Compatible-green.svg)](https://papermc.io/software/folia)
 [![License](https://img.shields.io/badge/license-MIT-orange.svg)](LICENSE)
 
